@@ -1,6 +1,6 @@
 # TkinterRegistrationAndLoginSystem
 
-in this project we'll build 
+In this project we'll build 
 Registration and login system 
 using python Tkinter module and sqlite3 module.
 
